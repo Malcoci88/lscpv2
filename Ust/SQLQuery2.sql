@@ -1,0 +1,1 @@
+﻿insert dbo.student (nume,prenume) values ('dan1','dan2')

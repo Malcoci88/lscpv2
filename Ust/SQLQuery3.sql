@@ -1,0 +1,1 @@
+﻿select specialitati from dbo.specialitati where facult = 'FMTI'
